@@ -15,6 +15,10 @@ For further information, see Kaggle competition [here](https://www.kaggle.com/co
 
 To address the issues, we propose a Graph Attention Network (GAT) based graph learning model that follows the Relational Graph Convolutional Network (RGCN) aggregation approach. Our designed model achieves an impressive F1-score of 0.9484 in the Kaggle competition, surpassing the majority of participating teams. [This report paper](report/Report_for_data_science_fundamentals.pdf) provides a comprehensive demonstration of the core architecture of our proposed method. Detailed implementation instructions are also disclosed for the purpose of reproducibility as a course project.
 
+### Team performance on Kaggle
+![frame](imgs/screenshot.png)
+Collaborator: Kuan Yang
+
 ### Pretrained predictions
 Several predictions with good performance submitted on Kaggle are put in [`pretrained_predictions`](pretrained_predictions). [`prediction_Final_0.94841.csv`](pretrained_predictions/prediction_Final_0.94841.csv) is the latest submitted version of our team.
 
