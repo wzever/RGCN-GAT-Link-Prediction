@@ -1,6 +1,8 @@
 # Graph based Recommendation
 Course project of SJTU CS3319: Data Science Fundamentals, 2023 spring.
 
+**Attention: Discussion & reference welcomed, but ***NO PLAGIARISM*** !!!**
+
 ### Task objective
 Here is a link prediction problem in an academic network. We collected 6,611 authors and corresponding 79,937 papers from top journals in the field of GeoScience as well as citation information of their publications. The collected information is used to form an academic network, and there is a feasible way:
 
